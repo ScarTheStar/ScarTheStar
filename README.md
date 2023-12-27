@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScarTheStar
-- 👀 I’m interested in appications and games
+- 👀 I’m interested in applications and games
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on everything i can
 - 📫 How to reach me ...
